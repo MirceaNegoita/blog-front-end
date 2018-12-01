@@ -43,5 +43,14 @@ body {
     background-color: #ffffff !important;
     border-color: #ff3333 !important;
     color: #ff3333 !important;
+}
 
+
+.progress-bar {
+    position: fixed;
+    top: 0;
+    height: 5px;
+    background:#ff5722;
+    transition: width .25s;
+    z-index:9999;
 }
