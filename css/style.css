@@ -38,3 +38,10 @@ body {
     background-color: #ff3333;
     border-color: #ffff;
 }
+
+.btn-primary:active {
+    background-color: #ffffff !important;
+    border-color: #ff3333 !important;
+    color: #ff3333 !important;
+
+}
